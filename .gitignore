@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+.idea/
+
+# Local settings
+*.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Cache
+.cache/
+.mypy_cache/
+.pytest_cache/
+ruff_cache/
+
+# Logs
+*.log
+
+# Uvicorn reload artifacts
+*.pid
+
+# Render
+.render/
